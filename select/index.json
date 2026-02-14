@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "long good-bye",
+  "base_artist": "リュックと添い寝ごはん",
+  "createdAt": "2026-02-14T11:28:04.839265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Long, Good-bye",
+      "artist": "10 Years",
+      "has_synced": true,
+      "path": "select/01_So_Long,_Good-bye_10_Years.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Long Good Bye",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/02_The_Long_Good_Bye_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Long, Good-bye (Album Version)",
+      "artist": "10 Years",
+      "has_synced": true,
+      "path": "select/03_So_Long,_Good-bye_(Album_Version)_10_Years.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Long Good Bye",
+      "artist": "Ronan Keating",
+      "has_synced": true,
+      "path": "select/04_The_Long_Good_Bye_Ronan_Keating.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Long, Good Bye",
+      "artist": "10 Years",
+      "has_synced": true,
+      "path": "select/05_So_Long,_Good_Bye_10_Years.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Long Good Bye",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/06_So_Long_Good_Bye_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Long, Good Bye",
+      "artist": "Big Bad Voodoo Daddy",
+      "has_synced": true,
+      "path": "select/07_So_Long,_Good_Bye_Big_Bad_Voodoo_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "long good-bye",
+      "artist": "Ryukku to Soine Gohan",
+      "has_synced": false,
+      "path": "select/08_long_good-bye_Ryukku_to_Soine_Gohan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "long good-bye",
+      "artist": "リュックと添い寝ごはん",
+      "has_synced": false,
+      "path": "select/pl_01_long_good-bye_リュックと添い寝ごはん.txt"
+    }
+  ]
+}
